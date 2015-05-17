@@ -1,0 +1,6 @@
+
+This is amazing.
+
+At first there was no file, no nothing. Then a git and suddenly there was a useful, functioning thing.
+
+A text file.
