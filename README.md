@@ -1,1 +1,5 @@
 # KRS-BOOKREVIEWS
+<<<<<<< HEAD
+=======
+# KRS-BOOKREVIEWS
+>>>>>>> 04ec4be2130535f5198caee64f23942fa8720c94
