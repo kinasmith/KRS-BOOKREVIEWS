@@ -1,6 +1,2 @@
 
-This is amazing.
-
-At first there was no file, no nothing. Then a git and suddenly there was a useful, functioning thing.
-
-A text file.
+There was once a small turtle. He was friends with a frog and a dog. They went on adventures together.
